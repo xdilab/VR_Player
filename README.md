@@ -28,6 +28,6 @@ The project focuses on creating an immersive video experience on the **HTC Vive 
 
 ## 📌 Notes
 
-- This repo is **for progress tracking only**, not the full Unity source code  
+- This repo is **for progress tracking only**, not the full Unity source code  | Watch Source Code Added 9/18/2025
 - Each upload includes enough context (date or label) to understand what it represents  
 - Full builds and source code are managed separately  

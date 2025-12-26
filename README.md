@@ -80,7 +80,9 @@ Sundown is a virtual reality–based research platform for collecting synchroniz
 ### Built With
 
 * [![Unity][Unity.dev]][Unity-url]
-
+* [![OpenXR][OpenXR.dev]][OpenXR-url]
+* [![Vive Wave][ViveWave.dev]][ViveWave-url]
+* [![HTC Vive][HTCVive.dev]][HTCVive-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -259,3 +261,9 @@ Project Link: [https://github.com/xdilab/VR_Player](https://github.com/xdilab/VR
 [JQuery-url]: https://jquery.com 
 [Unity.dev]: https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white
 [Unity-url]: https://unity.com/
+[OpenXR.dev]: https://img.shields.io/badge/OpenXR-6E4AFF?style=flat-square&logo=khronosgroup&logoColor=white
+[OpenXR-url]: https://www.khronos.org/openxr/
+[ViveWave.dev]: https://img.shields.io/badge/Vive%20Wave-00B3E6?style=flat-square&logo=htc&logoColor=white
+[ViveWave-url]: https://developer.vive.com/resources/vive-wave/
+[HTCVive.dev]: https://img.shields.io/badge/HTC%20Vive-00B3E6?style=flat-square&logo=htc&logoColor=white
+[HTCVive-url]: https://www.vive.com/

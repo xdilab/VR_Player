@@ -144,12 +144,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] Phase 0 – Initial Concept & Scope Definition
+- [X] **Phase 0 – Initial Concept & Scope Definition**
     - [X] Defined goal of a calming VR environment paired with physiological data collection
     - [X] Identified VR as the primary interaction surface
     - [X] Chose wearable + VR headset as the core multi-modal setup
     - [X] Scoped project as research infrastructure
-- [X] Phase 1 – Core VR Application & Playback Pipeline
+- [X] **Phase 1 – Core VR Application & Playback Pipeline**
     - [X] Built initial Unity VR application
     - [X] Implemented immersive 360° video playback
     - [X] Integrated local video playback and playlist control
@@ -158,7 +158,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [X] Added session start/stop controls
     - [X] Stabilized immersive playback pipeline
     - [X] Integrated ***REDACTED*** YouTube 360 playback for content sourcing
-- [X] Phase 2 – Eye Tracking, Controls, and VR Stability
+- [X] **Phase 2 – Eye Tracking, Controls, and VR Stability**
     - [X] Integrated eye tracking into the VR application
     - [X] Logged gaze direction, blink events, fixation, and head pose
     - [X] Stabilized eye-tracking sampling and session timing
@@ -167,7 +167,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [X] Reduced unintended motion and visual discomfort
     - [X] Refined UI flow and interaction responsiveness
     - [X] Ensured consistent session start/stop behavior
-- [X] Phase 3 – Galaxy Watch Integration & Physiological Data
+- [X] **Phase 3 – Galaxy Watch Integration & Physiological Data**
     - [X] Integrated Samsung Galaxy Watch 7 with the VR system
     - [X] Implemented BLE-based data streaming
     - [X] Captured heart rate and inter-beat interval (IBI)
@@ -175,12 +175,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [X] Synchronized watch data with VR session lifecycle
     - [X] Integrated stress-related metrics from watch APIs
     - [X] Logged physiological data to timestamped CSV files
-- [X] Phase 4 – Data Synchronization & Repository Structuring
+- [X] **Phase 4 – Data Synchronization & Repository Structuring**
     - [X] Unified session IDs across VR and watch data
     - [X] Improved BLE reliability and reconnection handling
     - [X] Refined CSV schema and logging consistency
     - [X] Uploaded screenshots, logs, notes, and Unity scripts
-- [X] Phase 5 – Current Focus (Ongoing)
+- [X] **Phase 5 – Current Focus (Ongoing)**
     - [ ] Improve long-session stability across all systems
     - [ ] Validate timestamp alignment across eye tracking, movement, and watch data
     - [ ] Reduce data loss during intermittent connectivity

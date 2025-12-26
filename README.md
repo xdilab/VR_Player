@@ -220,14 +220,14 @@ Project Link: [https://github.com/xdilab/VR_Player](https://github.com/xdilab/VR
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This project was developed at **eXplainable Deep Intelligence Lab** under the supervision of **Dr. [Hamidzera Moradi]**.
+This project was developed at **eXplainable Deep Intelligence Lab** under the supervision of **Dr. Hamidzera Moradi**.
 
 The author would like to acknowledge the early contributors to this project:
-- **[Ehsan Alam]**
-- **[Kimora Mohan]**
-- **[Elias Greene]**
+- **Ehsan Alam**
+- **Kimora Mohan**
+- **Elias Greene**
 
-Their early input and discussions helped shape the initial direction of the system.  
+The author would like to thank the lab leadership and members for guidance, technical discussions, and feedback throughout development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

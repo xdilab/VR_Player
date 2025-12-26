@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![VR Player UI](screenshots/Screenshot_20250904_183932.png)
 
 Sundown is a virtual reality–based research platform designed to collect synchronized physiological and behavioral signals during immersive VR experiences. The system integrates a standalone VR headset, a smartwatch, and a backend server to enable controlled data capture, logging, and future AI/LLM-based analysis.
 

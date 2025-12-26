@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/xdilab/VR_Player">
-    <img src="images/XDI_B_logo.png" alt="Logo" width="100" height="100">
+    <img src="images/XDI_B_logo.png" alt="Logo" width="256" height="256">
   </a>
 
 <h3 align="center">Sundown</h3>

@@ -18,13 +18,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/xdilab/VR_Player">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/XDI_B_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Sundown</h3>
 
   <p align="center">
-    project_description
+    This project develops a VR-based research platform focused on immersive 360° video experiences and synchronized behavioral and physiological data collection. The system emphasizes stable VR playback, eye tracking, user controls, and UI consistency, followed by integration of wearable sensor data from a Samsung Galaxy Watch. The repository serves as a progress log and data archive supporting ongoing research and future analysis
     <br />
     <a href="https://github.com/xdilab/VR_Player"><strong>Explore the docs »</strong></a>
     <br />

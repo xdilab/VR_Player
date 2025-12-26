@@ -108,22 +108,21 @@ Before installing the APK, make sure you have:.
    - Go back and enable:
      - **Developer Mode**
      - **USB Debugging*
-*USB Debugging
 *Allow installation from unknown sources
-4. Connect the headset to the computer
+3. Connect the headset to the computer
    - Use a **USB-C data cable**
    - Put on the headset and approve the **USB debugging** prompt
-5. Verify ADB connection
+4. Verify ADB connection
    ```sh
    adb devices
    ```
    -You should see the headset listed.
-6. Install the APK
+5. Install the APK
    ```sh
    adb install -r Sundown.apk   
    ```
-7. Launch the application
-   -From the headset’s app library or
+6. Launch Application
+   - From the headset’s app library or
    ```sh
      adb shell monkey -p com.xdilab.sundown 1
    ```

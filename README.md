@@ -192,7 +192,7 @@ See the [open issues](https://github.com/xdilab/VR_Player/issues) for a full lis
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Distributed under the project_license. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,7 +230,7 @@ Project Link: [https://github.com/xdilab/VR_Player](https://github.com/xdilab/VR
 [stars-url]: https://github.com/github_xdilab/VR_Player/stargazers
 [issues-shield]: https://img.shields.io/github/issues/xdilab/VR_Player.svg?style=for-the-badge
 [issues-url]: https://github.com/xdilab/VR_Player/issues
-[license-shield]: https://img.shields.io/github/license/xdilab/VR_Player.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/xdilab/VR_Player.svg?style=for-the-badge&cacheSeconds=300
 [license-url]: https://github.com/xdilab/VR_Player/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username

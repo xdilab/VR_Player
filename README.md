@@ -24,7 +24,7 @@
 <h3 align="center">Sundown</h3>
 
   <p align="center">
-    This project develops a VR-based research platform focused on immersive 360° video experiences and synchronized behavioral and physiological data collection. The system emphasizes stable VR playback, eye tracking, user controls, and UI consistency, followed by integration of wearable sensor data from a Samsung Galaxy Watch. The repository serves as a progress log and data archive supporting ongoing research and future analysis
+This project develops a VR-based research platform focused on immersive 360° video experiences and synchronized behavioral and physiological data collection. The system emphasizes stable VR playback, eye tracking, user controls, and UI consistency, followed by integration of wearable sensor data from a Samsung Galaxy Watch. The repository serves as a progress log and data archive supporting ongoing research and future analysis
     <br />
     <a href="https://github.com/xdilab/VR_Player"><strong>Explore the docs »</strong></a>
     <br />
@@ -71,8 +71,7 @@
 ## About The Project
 
 ![VR Player UI](screenshots/Screenshot_20250904_183932.png)
-
-Sundown is a virtual reality–based research platform designed to collect synchronized physiological and behavioral signals during immersive VR experiences. The system integrates a standalone VR headset, a smartwatch, and a backend server to enable controlled data capture, logging, and future AI/LLM-based analysis.
+Sundown is a virtual reality–based research platform for collecting synchronized physiological and behavioral signals during immersive VR experiences. The system integrates a standalone VR headset, a smartwatch, and a backend server to support controlled data capture, structured logging, and future AI/LLM-based analysis.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

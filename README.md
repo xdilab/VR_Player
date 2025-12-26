@@ -100,28 +100,30 @@ Before installing the APK, make sure you have:.
 * Windows
 * Android SDK Platform Tools (ADB) installed[https://example.com](https://developer.android.com/studio/releases/platform-tools)
 ### Installation
-1. Download the APK 
+1. Download the APK
+
 2. Enable Developer Mode on the headset
-  - On the headset, open Settings → About
-  - Tap Build Number 7 times to enable Developer Options
--Go back and enable:
---Developer Mode
---USB Debugging
---Allow installation from unknown sources
-3. Connect the headset to the computer
--Use a USB-C data cable
--Put on the headset and approve the USB debugging prompt
-4. Verify ADB connection
+   - On the headset, open **Settings → About**
+   - Tap **Build Number** 7 times to enable Developer Options
+   - Go back and enable:
+     - **Developer Mode**
+     - **USB Debugging*
+*USB Debugging
+*Allow installation from unknown sources
+4. Connect the headset to the computer
+   - Use a **USB-C data cable**
+   - Put on the headset and approve the **USB debugging** prompt
+5. Verify ADB connection
    ```sh
    adb devices
    ```
    -You should see the headset listed.
-5. Install the APK
+6. Install the APK
    ```sh
    adb install -r Sundown.apk   
    ```
-6. Launch the application
-    * From the headset’s app library or
+7. Launch the application
+   -From the headset’s app library or
    ```sh
      adb shell monkey -p com.xdilab.sundown 1
    ```

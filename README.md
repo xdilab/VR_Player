@@ -195,6 +195,7 @@ See the [open issues](https://github.com/xdilab/VR_Player/issues) for a full lis
 © 2025 eXplainable Deep Intelligence Lab<br>
 Developed under Hamidzera Moradi.<br>  
 Primary author: Kirsten Hefney.<br>
+
 This project is licensed under the **GNU General Public License v3.0**.<br>
 See the [LICENSE](./LICENSE) file for full terms and conditions.<br>
 

@@ -81,7 +81,7 @@ Sundown is a virtual reality–based research platform designed to collect synch
 ### Built With
 
 * [![Unity][Unity.dev]][Unity-url]
-* [![Unity][Unity.dev]][Unity-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,8 +102,8 @@ Before installing the APK, make sure you have:.
 ### Installation
 1. Download the APK 
 2. Enable Developer Mode on the headset
--On the headset, open Settings → About
--Tap Build Number 7 times to enable Developer Options
+  - On the headset, open Settings → About
+  - Tap Build Number 7 times to enable Developer Options
 -Go back and enable:
 --Developer Mode
 --USB Debugging
@@ -121,7 +121,7 @@ Before installing the APK, make sure you have:.
    adb install -r Sundown.apk   
    ```
 6. Launch the application
-   -From the headset’s app library or
+    * From the headset’s app library or
    ```sh
      adb shell monkey -p com.xdilab.sundown 1
    ```

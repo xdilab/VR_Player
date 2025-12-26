@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/xdilab/VR_Player">
-    <img src="images/XDI_B_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/XDI_B_logo.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Sundown</h3>
@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![VR Player UI](screenshots/Screenshot_20250904_183932.png)
+![VR Player UI](screenshots/Screenshot_20250904_183932.png)
 
 Sundown is a virtual reality–based research platform designed to collect synchronized physiological and behavioral signals during immersive VR experiences. The system integrates a standalone VR headset, a smartwatch, and a backend server to enable controlled data capture, logging, and future AI/LLM-based analysis.
 

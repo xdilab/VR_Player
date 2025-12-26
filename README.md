@@ -144,17 +144,47 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] Phase 1
-    - [X] 360° VR video playback on HTC Vive Focus Vision
-    - [X] Local video support with playlist management
-    - [X] RenderTexture-based immersive environment
-    - [X] Session start/stop UI flow
-    - [X] Timestamped CSV logging in Unity
-    - [X] Eye tracking, gaze direction, blink rate, and head pose capture
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
+- [X] Phase 0 – Initial Concept & Scope Definition
+    - [X] Defined goal of a calming VR environment paired with physiological data collection
+    - [X] Identified VR as the primary interaction surface
+    - [X] Chose wearable + VR headset as the core multi-modal setup
+    - [X] Scoped project as research infrastructure
+- [X] Phase 1 – Core VR Application & Playback Pipeline
+    - [X] Built initial Unity VR application
+    - [X] Implemented immersive 360° video playback
+    - [X] Integrated local video playback and playlist control
+    - [X] Established RenderTexture-based video rendering
+    - [X] Designed minimal, low-cognitive-load VR UI
+    - [X] Added session start/stop controls
+    - [X] Stabilized immersive playback pipeline
+    - [X] Integrated ***REDACTED*** YouTube 360 playback for content sourcing
+- [X] Phase 2 – Eye Tracking, Controls, and VR Stability
+    - [X] Integrated eye tracking into the VR application
+    - [X] Logged gaze direction, blink events, fixation, and head pose
+    - [X] Stabilized eye-tracking sampling and session timing
+    - [X] Implemented and refined VR input controls
+    - [X] Stabilized user movement and navigation behavior
+    - [X] Reduced unintended motion and visual discomfort
+    - [X] Refined UI flow and interaction responsiveness
+    - [X] Ensured consistent session start/stop behavior
+- [X] Phase 3 – Galaxy Watch Integration & Physiological Data
+    - [X] Integrated Samsung Galaxy Watch 7 with the VR system
+    - [X] Implemented BLE-based data streaming
+    - [X] Captured heart rate and inter-beat interval (IBI)
+    - [X] Logged raw accelerometer XYZ data
+    - [X] Synchronized watch data with VR session lifecycle
+    - [X] Integrated stress-related metrics from watch APIs
+    - [X] Logged physiological data to timestamped CSV files
+- [X] Phase 4 – Data Synchronization & Repository Structuring
+    - [X] Unified session IDs across VR and watch data
+    - [X] Improved BLE reliability and reconnection handling
+    - [X] Refined CSV schema and logging consistency
+    - [X] Uploaded screenshots, logs, notes, and Unity scripts
+- [X] Phase 5 – Current Focus (Ongoing)
+    - [ ] Improve long-session stability across all systems
+    - [ ] Validate timestamp alignment across eye tracking, movement, and watch data
+    - [ ] Reduce data loss during intermittent connectivity
+    - [ ] Prepare data for downstream analysis
 See the [open issues](https://github.com/xdilab/VR_Player/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -98,7 +98,7 @@ Before installing the APK, make sure you have:.
 * Standalone VR headset (HTC Vive Focus Vision)
 * USB-C data cable
 * Windows
-* Android SDK Platform Tools (ADB) installed[https://example.com](https://developer.android.com/studio/releases/platform-tools)
+* Android SDK Platform Tools (ADB) installed [Anroid SDK Link](https://developer.android.com/studio/releases/platform-tools)
 ### Installation
 1. Download the APK
 
@@ -144,12 +144,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+- [X] Phase 1
+    - [X] 360° VR video playback on HTC Vive Focus Vision
+    - [X] Local video support with playlist management
+    - [X] RenderTexture-based immersive environment
+    - [X] Session start/stop UI flow
+    - [X] Timestamped CSV logging in Unity
+    - [X] Eye tracking, gaze direction, blink rate, and head pose capture
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/xdilab/VR_Player/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,9 +172,9 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Kirsten Hefney - khefney@aggies.ncat.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/xdilab/VR_Player](https://github.com/xdilab/VR_Player)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
